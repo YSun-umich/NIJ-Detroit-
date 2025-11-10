@@ -1,4 +1,4 @@
-# NIJ-Detroit
+# NIJ-Detroit 
 This project is sponsored by the National Institute of Justice and aims to measure Detroit residents' safety perception by integrating contextual data as well as spatial data into survey data. 
 
 # What's in this folder
