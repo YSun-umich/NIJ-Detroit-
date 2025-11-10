@@ -2,3 +2,5 @@
 This folder includes multiple Python scripts that I have been working with in preparation of a computer vision project.
 
 For the goal of this project, we aim to develop an AI model that can help us detect "blighted" elements from street-level images (e.g., broken windows/doors, boarded-up windows/doors, mismatched wall pieces, overgrown trees/lawns, etc). This model will be used alongside the responses of our survey work. We care about the elements at the very fine-grained level as we wonder how these environmental elements impact residents' safety perception. 
+
+We made a field trip to Detroit this summer and have collected 1,000 pictures. We are now developing our coding scheme. We will use the coding scheme for code the pictures, and use Roboflow for model training. 09.28.Roboflow Prep.ipynb, includes our specific coding scheme composition and potential next steps. 
