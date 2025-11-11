@@ -9,7 +9,7 @@ For the goal of this CV project, we aim to develop an AI model that can help us 
 # CV project in the making
 We made a field trip to Detroit this summer and have collected 1,000+ pictures. We are now developing our coding scheme. We will use the coding scheme for annotating the pictures, and will use Roboflow for initial model training phase. 
 
-09.28.Roboflow Prep.ipynb, includes our specific coding scheme composition and potential next steps. 
+https://github.com/YSun-umich/NIJ-Detroit-/blob/main/09.28.Roboflow%20Prep.ipynb includes our specific coding scheme composition and potential next steps. 
 
 # Annotating pictures on CVAT using our coding scheme
 ![CVAT1](https://github.com/YSun-umich/NIJ-Detroit-/blob/main/CVAT1.png?raw=true)
